@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item android:title="General">
+    <menu>
+        <item
+            android:id="@+id/create_new"
+            android:title="@string/create_new"
+            android:icon="@drawable/save"/>
+
+        <item
+            android:id="@+id/open"
+            android:title="@string/openfile"
+            android:icon="@drawable/save"/>
+
+        <item
+            android:id="@+id/nav_delete"
+            android:title="@string/delete"
+            android:icon="@drawable/save"/>
+</menu>
+   </item>
+</menu>
